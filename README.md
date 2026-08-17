@@ -32,6 +32,7 @@ presentation-crafting/
 │   ├── brief.md                    # шаблон брифа
 │   └── deck-spec.md                # шаблон спека слайдов
 └── examples/
+    ├── brief-example.md            # пример заполненного брифа
     └── deck-spec-example.md        # пример заполненного спека (3 слайда)
 ```
 
